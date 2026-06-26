@@ -1,3 +1,3 @@
 # Versionador-Brian
-# Proyecto de Verionamiento
+# Proyecto de Versionamiento
 Alumno: Brian Sepulveda Romero
